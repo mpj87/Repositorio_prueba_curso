@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+body{
+	background-color:gray;
+}
+h1{
+	color: navy;
+	margin-left:20px;
+}
+p {
+  text-align: center;
+  color: red;
+}
+#para1 {
+  text-align: left;
+  color: yellow;
+}
+.parrafoClase {
+  text-align: center;
+  color: green;
+}
